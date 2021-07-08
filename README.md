@@ -19,12 +19,6 @@ This is program has no GUI and is run/installed through the user's terminal.
 
 ### Future Updates
 - Add a second data set to study a different topic
-- Add a timer for the user's to see how long their round takes
-
-
-### Contributors
-- Shawn McMahon
-
 
 ### Program Example
 ![flashcard-gif](https://user-images.githubusercontent.com/73731359/118185339-a9af5200-b3f9-11eb-9d3b-f9c52ed35b68.gif)
