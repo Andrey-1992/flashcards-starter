@@ -1,8 +1,7 @@
 # FlashCards Starter Kit
 
 ### Description
-- Flashcard starter kit is here for all of your flashcard needs. This program will help you study array prototypes to become an array iterator master.
-This is program has no GUI and is run/installed through the user's terminal.  
+- For this project, I created a game playable through the command line. This game showed a "card" with a question and 3 possible answers. The user chooses their answer and the game does not move on until the correct answer is chosen. 
 
 
 ### How it Works
